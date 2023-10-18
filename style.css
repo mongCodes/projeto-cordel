@@ -71,6 +71,7 @@ section.imagem {
     background-color: rgb(71, 71, 71);
     min-height: 300px;
     box-shadow: inset 2px 2px 10px rgba(0, 0, 0, 0.521);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.562);
 }
 section.normal {
     background-color: white;
